@@ -1,4 +1,4 @@
-# About
-About Handshake AU
+# About Handshake AU
+## 👋 G'day welcome to Handshake AU
 
-Visit our website @ https://gday.hnsau/ or if you don't have any handshake resolver https://gday.hnsau.hdns.co
+[Visit our Website 💻](https://gday.hnsau/)
